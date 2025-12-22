@@ -1,4 +1,27 @@
 # Papercraft.Links
 
-## 両面印刷のテスト (PDF)
-- [ダウンロード (A4 カラー 4ページ)](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
+## 【両面印刷のテスト】
+
+PDFの両面印刷のずれの有無を確認します。
+
+以下のPDFファイルをダウンロードしてご使用のプリンタで印刷してください。
+
+- [ダウンロード)](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
+
+### 使用するPDFファイルについて
+
+| 項目  | 設定値 |
+|--|--|
+| 原稿サイズ | A4 |
+| ページ数 | 4 |
+| カラー/モノクロ | カラー |
+
+### 印刷方法
+
+| 項目  | 設定値 |
+|--|--|
+| 原稿の向き | 縦 |
+| 原稿サイズ | A4 |
+| 印刷種類 | 両面 |
+| 開き/綴じ方向 | 長編綴じ(左綴じ) 
+| カラー/モノクロ | カラー |
