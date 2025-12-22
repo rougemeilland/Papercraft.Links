@@ -10,15 +10,7 @@ PDFの両面印刷のずれの有無を確認します。
 
 以下のPDFファイルをダウンロードしてご使用のプリンタで印刷してください。
 
-- [ダウンロード](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
-
-### 使用するPDFファイルについて
-
-| 項目  | 設定値 |
-|--|--|
-| 原稿サイズ | A4 |
-| ページ数 | 4 |
-| カラー/モノクロ | カラー |
+- [ダウンロード (A4 カラー 4ページ)](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
 
 ### 印刷方法
 
