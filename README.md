@@ -2,9 +2,16 @@
 
 ## 【目次】
 
+- [【リンク】](#リンク)
 - [【付録】](#付録)
   - [両面印刷のテスト](#両面印刷のテスト)
 - [【参考資料】](#参考資料)
+
+## 【リンク】
+
+| リンク | 表面ページ数 | 全ページ数 |
+|:---|---:|---:|
+|[dr-slump-arale-norimaki](https://drive.google.com/file/d/16xvfiKAxD0O2jUGA8S7DnOVZVzRJU_H3/view?usp=sharing) | 3 | 3 |
 
 ## 【付録】
 
