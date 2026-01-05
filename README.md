@@ -9,9 +9,13 @@
 
 ## 【リンク】
 
-| リンク | 表面ページ数 | 全ページ数 |
-|:---|---:|---:|
-|[dr-slump-arale-norimaki](https://drive.google.com/file/d/16xvfiKAxD0O2jUGA8S7DnOVZVzRJU_H3/view?usp=sharing) | 3 | 3 |
+以下のリンク先で、以下の何れかの方法でダウンロードをしてください。
+- ダウンロードアイコンをクリックする
+- 「ファイル」メニューの「ダウンロード」の項目をクリックする。
+
+| リンク | ファイル形式 | 表面ページ数 | 全ページ数 |
+|:---|:---|---:|---:|
+|[dr-slump-arale-norimaki](https://drive.google.com/file/d/16xvfiKAxD0O2jUGA8S7DnOVZVzRJU_H3/view?usp=sharing) | zip | 3 | 3 |
 
 ## 【付録】
 
