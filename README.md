@@ -21,7 +21,7 @@ PDFの両面印刷のずれの有無を確認します。
 
 以下のPDFファイルをダウンロードしてご使用のプリンタで印刷してください。
 
-- [ダウンロード (A4 カラー 2ページ)](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
+- [ダウンロード (A4 カラー 2ページ)](https://drive.google.com/file/d/1S2fynfQ8sFoITRBwmPuqkFic-Ln867OD/view?usp=sharing)
 
 印刷には以下の指定をしてください。
 
