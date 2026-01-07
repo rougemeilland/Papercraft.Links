@@ -15,6 +15,7 @@
 
 | リンク | ファイル形式 | 表面ページ数 | 全ページ数 |
 |:---|:---|---:|---:|
+|[dr-slump-arale-norimaki](https://drive.google.com/file/d/16xvfiKAxD0O2jUGA8S7DnOVZVzRJU_H3/view?usp=sharing) | zip | 3 | 3 |
 |[arale-norimaki-v3 (片面印刷用)](https://drive.google.com/file/d/1fV9v4z7c8sHKhh6WNprvJ1QxpvRSLSzb/view?usp=sharing) | zip | 8 | 10 |
 |[arale-norimaki-v3 (両面印刷用)](https://drive.google.com/file/d/1VPd2f6Qn_JfRsU_UWzOuYkUVedzxPnhi/view?usp=sharing) | zip | 8 | 10 |
 
